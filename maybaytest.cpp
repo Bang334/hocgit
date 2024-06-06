@@ -5,7 +5,7 @@
 #include <fstream> 
 #include <iomanip> 
 using namespace std;
-
+//test
 struct Khachhang {
     string name;
     string cccd;
